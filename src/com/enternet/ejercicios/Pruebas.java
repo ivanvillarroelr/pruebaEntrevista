@@ -13,9 +13,11 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-
-
-
+/**
+ * 
+ * @author <a href="mailto:felipevillarroel88@gmail.com"> Ivan Felipe Villarroel</a>
+ *
+ */
 public class Pruebas {
 	// Actualizar por su ruta
 	public final static String RUTA = "C:/temp/";

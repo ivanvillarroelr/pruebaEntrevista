@@ -1,7 +1,11 @@
 package com.enternet.ejercicios;
 
 import java.text.Normalizer;
-
+/**
+ * 
+ * @author <a href="mailto:felipevillarroel88@gmail.com"> Ivan Felipe Villarroel</a>
+ *
+ */
 public class Normalizador {
 	
 	public static String limpiarPalabra(String palabra){

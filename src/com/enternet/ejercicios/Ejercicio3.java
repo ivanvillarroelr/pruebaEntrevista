@@ -6,7 +6,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-
+/**
+ * 
+ * @author <a href="mailto:felipevillarroel88@gmail.com"> Ivan Felipe Villarroel</a>
+ *
+ */
 public class Ejercicio3 {
 	
 	public static String[] toLowerArraySinPuntos(String palabra) {
@@ -35,7 +39,7 @@ public class Ejercicio3 {
         // Cerrar el archivo
         lector.close();
         
-        // Utiliza la clase Ejercicio1 para limpiar los caracteres ajenos al español y crear arreglo
+        // Utiliza la clase Ejercicio1 para limpiar los caracteres ajenos al espaï¿½ol y crear arreglo
 
         List<String> auxLista = Arrays.asList(Ejercicio3.toLowerArraySinPuntos(archivoRecorrido));   
         

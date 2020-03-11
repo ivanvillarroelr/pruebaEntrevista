@@ -5,7 +5,11 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.Scanner;
 
-
+/**
+ * 
+ * @author <a href="mailto:felipevillarroel88@gmail.com"> Ivan Felipe Villarroel</a>
+ *
+ */
 public class Ejercicio2 {
 	
 	public static String leerArchivo(String ruta, String archivo) throws FileNotFoundException{
